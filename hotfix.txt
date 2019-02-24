@@ -1,2 +1,3 @@
 hello this is krihsna
 file changed
+git pull
